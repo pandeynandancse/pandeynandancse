@@ -37,5 +37,5 @@ B.Tech.(CSE) from SMVDU,Katra (2015-2019)
 [<img src = "https://img.shields.io/badge/kaggle-%231877F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/awadhi123)
 
 
-⚡ Fun fact
+⚡ Fun fact<br>
 On internet People Know me as pandeynandancse or awadhi123
