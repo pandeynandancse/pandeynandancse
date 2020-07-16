@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ### Nandan Pandey👋
 M.Tech.(Cyber Security) (2019-2021)
 B.Tech.(CSE) (2015-2019)
-- 🔭 I’m currently working on machine and deep learning and trying to brush up my skills.
+- 🔭 I’m currently working on Machine and Deep Learning and trying to brush up my skills.
 - 🌱 I’m currently learning reinforcement learning and Cyber Security.
-- 🤝 I’m looking to collaborate on web development and deep learning projects. 
+- 🤝 I’m looking to collaborate on Web Development and Deep Learning projects. 
 
 ![Nandan Pandey's github stats](https://github-readme-stats.vercel.app/api?username=pandeynandancse)
 
