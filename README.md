@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ### Nandan Pandey👋
-M.Tech.(Cyber Security) (2019-2021)
+M.Tech.(Cyber Security) (2019-2021)<br>
 B.Tech.(CSE) (2015-2019)
 - 🔭 I’m currently working on Machine and Deep Learning and trying to brush up my skills.
 - 🌱 I’m currently learning reinforcement learning and Cyber Security.
