@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 ### Nandan Pandey👋
-M.Tech.(Cyber Security) (2019-2021)<br>
-B.Tech.(CSE) (2015-2019)
+M.Tech.(Cyber Security)  from NIT Kurukshetra (2019-2021)<br>
+B.Tech.(CSE) from SMVDU,Katra (2015-2019) 
 - 🔭 I’m currently working on Machine and Deep Learning and trying to brush up my skills.
 - 🌱 I’m currently learning reinforcement learning and Cyber Security.
 - 🤝 I’m looking to collaborate on Web Development and Deep Learning projects. 
