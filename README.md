@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 M.Tech.(Cyber Security)  from NIT Kurukshetra (2019-2021)<br>
 B.Tech.(CSE) from SMVDU,Katra (2015-2019) 
 - 🔭 I’m currently working on MEAN Stack Web Project with TheRightDoctors where MEAN stack stands for MongoDB, ExpressJS, AngularJS ,NodeJS
-- 🌱 I’m pursuing my Masters from National Institute of Technology.
+- 🌱 I’m pursuing my Masters from National Institute of Technology, Kurukshetra, Haryana
 
 
 ![Nandan Pandey's github stats](https://github-readme-stats.vercel.app/api?username=pandeynandancse)
