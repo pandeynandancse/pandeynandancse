@@ -35,8 +35,8 @@ B.Tech.(CSE) from SMVDU,Katra (2015-2019)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pandeynandancse) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nandan-pandey/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pandeynandancse/) [<img src = "https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white">](https://www.hackerrank.com/pandeynandancse)
 [<img src = "https://img.shields.io/badge/kaggle-%231877F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/awadhi123)
-[<img src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=red" />](https://www.youtube.com/channel/UCUZbFnVZge150B8CVg8GObw)
-
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCUZbFnVZge150B8CVg8GObw)
+[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/7442239/nandan-pandey)
 
 ⚡ Fun fact<br>
 On internet People Know me as pandeynandancse or awadhi123
