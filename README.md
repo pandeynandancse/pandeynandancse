@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Nandan Pandey👋
 - 🔭 Currently working as a Senior Business Analyst @PolicyBazaar , Gurgaon, India
-- 🌱 Previosuly Worked as a 1-year full time Software Development Intern @TheRightDoctors, Hyderabad, India
+- 🌱 Previously Worked as a 1-year full time Software Development Intern @TheRightDoctors, Hyderabad, India
 
 
 ![Nandan Pandey's github stats](https://github-readme-stats.vercel.app/api?username=pandeynandancse)
