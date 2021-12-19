@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 
 
 ### Nandan Pandey👋
-M.Tech.(Cyber Security)  from NIT Kurukshetra (2019-2021)<br>
-B.Tech.(CSE) from SMVDU,Katra (2015-2019) 
-- 🔭 I’m currently working on MEAN Stack Web Project with TheRightDoctors where MEAN stack stands for MongoDB, ExpressJS, AngularJS ,NodeJS
-- 🌱 I’m pursuing my Masters from National Institute of Technology, Kurukshetra, Haryana
+- 🔭 Currently working as a Senior Business Analyst @PolicyBazaar , Gurgaon, India
+- 🌱 Previosuly Worked as a 1-year full time Software Development Intern @TheRightDoctors, Hyderabad, India
 
 
 ![Nandan Pandey's github stats](https://github-readme-stats.vercel.app/api?username=pandeynandancse)
